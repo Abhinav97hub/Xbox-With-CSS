@@ -1,5 +1,9 @@
 This is a Image editing repository.
+
 You need to some files for creating such types of web pages
+
 the files are as follows :-
+
 1 Your image which do you want to edit.
+
 2 (Optional) Background image which do you want to set as your web page background. 
