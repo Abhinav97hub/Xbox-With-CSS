@@ -1,4 +1,4 @@
-# Xbox-With-CSS
+# Image Editing
 This is a image editing repository.
 
 You can too edit any image with few lines of code as like this 👇👇
